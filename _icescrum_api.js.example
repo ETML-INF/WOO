@@ -2,8 +2,11 @@
 // Get it from IceScrum > MyAccount > Account > API tokens
 var iceScrumToken = '...' 
 
-// Get your project ID from project > Settings > Your Project > Key
+// A single project as a player
 projectId = "MYPROJXXX";
+
+// And/or multiple projects as PnJ
+projectIds = ["MYPROJYYY","MYPROJZZZ"];
 
 
 // Select the backend to use
